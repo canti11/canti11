@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @canti11
-- 👀 I’m interested in music, reading, mechanical engineering
-- 🌱 I’m currently learning python, taking harvardx cs50x
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I like flcl
 
